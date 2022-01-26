@@ -12,7 +12,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] JS
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Colaboradores do projeto:
 
 <table>
   <tr>
@@ -28,4 +28,3 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-[⬆ Voltar ao topo](#Login Interface)<br>
